@@ -1,1 +1,2 @@
-test-dev
+config:
+  info: test-dev
